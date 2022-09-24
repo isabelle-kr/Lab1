@@ -63,7 +63,7 @@ I love quotes! Here are some of my favorites:
 Here are some of my favorite memes:
 
 ![Dad joke](https://cdn11.bigcommerce.com/s-e10kokolz/product_images/uploaded_images/dad-joke-meme-2.jpeg)
-![What not to do](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Ftag%2Fcomputer%2Bscience%3Fsort%3Dtop-2020&psig=AOvVaw09u6gUHtq2OsbEMIyvBQWI&ust=1664144479028000&source=images&cd=vfe&ved=0CAsQjRxqGAoTCIDz9ba7rvoCFQAAAAAdAAAAABCIAQ)
+![What not to do](https://i.imgflip.com/3vtu4a.jpg)
 ![A very good boy](https://bestlifeonline.com/wp-content/uploads/sites/3/2019/10/Screen-Shot-2019-10-09-at-5.37.37-PM.jpg?quality=82&strip=all)
 
 # Thanks for reading!
