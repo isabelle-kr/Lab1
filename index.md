@@ -7,16 +7,11 @@ I am a third-year computer science major.
 
 ## Computer Science Interests
 Top 3 Favorite CSE classes I have taken:
-1. CSE105 ([a cool related YouTube video](https://www.youtube.com/watch?v=OxGsU8oIWjY))
+1. CSE105 ([a cool related YouTube video](https://www.youtube.com/watch?v=OxGsU8oIWjY)) by Veritasium
 2. CSE21
 3. CSE100
 
-Top 3 Favorite Programming Languages
-1. Java
-2. Python
-3. C++
-
-A random fact about me as a programmer: I enjoy the K and R bracket style:
+As a programmer, I enjoy the K and R bracket style:
 ```
 for (int i = 0; i < 100; i++) {
     System.out.println(i);
@@ -40,14 +35,14 @@ My hobbies are, in no particular order:
 ## Words I Live By
 I love quotes! Here are some of my favorites:
 
-> Tell me, what is it you plan to do
-> With your one wild and precious life?
+> Tell me, what is it you plan to do  
+> With your one wild and precious life?  
 > **Mary Oliver**, "The Summer Day"
 
-> In every walk with nature one receives far more than he seeks.
+> In every walk with nature one receives far more than he seeks.  
 > **John Muir**
 
-> Be true! Be true! Be true!
+> Be true! Be true! Be true!  
 > **Nathaniel Hawthorne**, *The Scarlet Letter*
 
 ## Life Goals
@@ -63,11 +58,14 @@ I love quotes! Here are some of my favorites:
 Here are some of my favorite memes:
 
 ![Dad joke](https://cdn11.bigcommerce.com/s-e10kokolz/product_images/uploaded_images/dad-joke-meme-2.jpeg)
+source: https://cdn11.bigcommerce.com/s-e10kokolz/product_images/uploaded_images/dad-joke-meme-2.jpeg
 ![What not to do](https://i.imgflip.com/3vtu4a.jpg)
+source: https://i.imgflip.com/3vtu4a.jpg
 ![A very good boy](https://bestlifeonline.com/wp-content/uploads/sites/3/2019/10/Screen-Shot-2019-10-09-at-5.37.37-PM.jpg?quality=82&strip=all)
+source: https://bestlifeonline.com/wp-content/uploads/sites/3/2019/10/Screen-Shot-2019-10-09-at-5.37.37-PM.jpg?quality=82&strip=all
 
 # Thanks for reading!!!
-If you made it this far, enjoy this sunset picture:
+If you made it this far, enjoy this sunset picture that I took at Sunset Cliffs:
 
 [Sunset picture](/sunset_pic.png)
 
