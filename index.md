@@ -49,7 +49,7 @@ I love quotes! Here are some of my favorites:
 - [x] ~~graduate high school~~
 - [x] ~~get into college~~
 - [ ] graduate from college
-- [ ] get a fancy computer science job
+- [ ] get a computer science job
 - [ ] develop technology that helps people
 - [ ] move to Seattle (at least for a little bit)
 - [ ] live happily ever after!
