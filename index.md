@@ -58,11 +58,11 @@ I love quotes! Here are some of my favorites:
 Here are some of my favorite memes:
 
 ![Dad joke](https://cdn11.bigcommerce.com/s-e10kokolz/product_images/uploaded_images/dad-joke-meme-2.jpeg)  
-source: https://cdn11.bigcommerce.com/s-e10kokolz/product_images/uploaded_images/dad-joke-meme-2.jpeg
+Source: https://cdn11.bigcommerce.com/s-e10kokolz/product_images/uploaded_images/dad-joke-meme-2.jpeg
 ![What not to do](https://i.imgflip.com/3vtu4a.jpg)  
-source: https://i.imgflip.com/3vtu4a.jpg
+Source: https://i.imgflip.com/3vtu4a.jpg
 ![A very good boy](https://bestlifeonline.com/wp-content/uploads/sites/3/2019/10/Screen-Shot-2019-10-09-at-5.37.37-PM.jpg?quality=82&strip=all)  
-source: https://bestlifeonline.com/wp-content/uploads/sites/3/2019/10/Screen-Shot-2019-10-09-at-5.37.37-PM.jpg?quality=82&strip=all
+Source: https://bestlifeonline.com/wp-content/uploads/sites/3/2019/10/Screen-Shot-2019-10-09-at-5.37.37-PM.jpg?quality=82&strip=all
 
 # Thanks for reading!!!
 If you made it this far, enjoy this sunset picture that I took at Sunset Cliffs:
