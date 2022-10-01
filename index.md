@@ -67,6 +67,6 @@ source: https://bestlifeonline.com/wp-content/uploads/sites/3/2019/10/Screen-Sho
 # Thanks for reading!!!
 If you made it this far, enjoy this sunset picture that I took at Sunset Cliffs:
 
-[Sunset Picture](/sunset_pic.png)
+[Sunset Cliffs Sunset Picture](/sunset_pic.png)
 
 Nice to have met you!
