@@ -69,6 +69,6 @@ Here are some of my favorite memes:
 # Thanks for reading!!!
 If you made it this far, enjoy this sunset picture:
 
-![Sunset picture](/IMG_39023.HEIC)
+![Sunset picture](/sunset_pic.png)
 
 Nice to have met you!
